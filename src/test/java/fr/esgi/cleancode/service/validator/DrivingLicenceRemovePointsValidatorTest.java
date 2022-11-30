@@ -1,6 +1,7 @@
-package fr.esgi.cleancode.service;
+package fr.esgi.cleancode.service.validator;
 
 import fr.esgi.cleancode.model.DrivingLicence;
+import fr.esgi.cleancode.service.DrivingLicenceFinderService;
 import fr.esgi.cleancode.service.validator.DrivingLicenceRemovePointsValidator;
 import lombok.val;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package fr.esgi.cleancode.service;
+package fr.esgi.cleancode.service.validator;
 
 import fr.esgi.cleancode.exception.InvalidDriverSocialSecurityNumberException;
 import lombok.val;
