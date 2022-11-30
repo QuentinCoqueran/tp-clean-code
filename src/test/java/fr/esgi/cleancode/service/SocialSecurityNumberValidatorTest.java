@@ -7,6 +7,7 @@ import org.junit.jupiter.params.provider.NullAndEmptySource;
 import org.junit.jupiter.params.provider.ValueSource;
 
 import static fr.esgi.cleancode.service.validator.SocialSecurityNumberValidator.validate;
+import static org.assertj.vavr.api.VavrAssertions.assertThat;
 
 public class SocialSecurityNumberValidatorTest {
 
